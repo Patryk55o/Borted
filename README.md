@@ -4,6 +4,8 @@ A bss (Bee Swarm Simulator) macro written in python for linux, TESTED ON DEBIAN 
 # Information
 Are you tired of waiting for macros from popular macro makers to port their macros into linux? Borted comes and fixes that issue. Though this project isnt complete YET...
 
+This macro supports webhooks, so edit the file and EDIT the WEBHOOK_URL to have your webhook.
+
 # Guide/How to Start.
 
 Debian Based distros/Packages That are needed to start/do anything in the macro. Just run
