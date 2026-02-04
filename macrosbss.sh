@@ -2,6 +2,7 @@
 
 set -u
 
+# Made for BORTED, https://github.com/Patryk55o/Borted/
 # ---------------- CONFIG ----------------
 CONFIG_FILE="config.json"
 WEBHOOK_URL=""
