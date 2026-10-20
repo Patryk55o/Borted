@@ -1,3 +1,5 @@
+<h1> This macro is outdated, revolution macro has released their linux macro, so it would be worth checking it out! I haven't tested it so idk</h1>
+
 <p align='center'>
 <img src="https://github.com/Patryk55o/Borted/blob/main/BraveBee.png">
 </p>
